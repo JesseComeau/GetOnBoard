@@ -2,8 +2,6 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/P3T1-StaleMates/GetOnBoard)
 ![GitHub top language](https://img.shields.io/github/languages/top/P3T1-StaleMates/GetOnBoard)
 
-test
-
 ## Description
 
 Boardgame night web application
